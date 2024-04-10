@@ -5,8 +5,6 @@ example image:
 
 
 
-![alternative text](reports/img/pic01.jpg)
-
 
 #### -- Project Status: [Active]
 
