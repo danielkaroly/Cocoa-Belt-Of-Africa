@@ -6,16 +6,11 @@ example image:
 ![alternative text](reports/img/pic01.jpg)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is to explore the cacao production on the African continent. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to explore the cacao production on the African continent.
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
 
 ### Methods Used
 * Explarotary Data Analysis
@@ -30,11 +25,7 @@ The purpose of this project is to explore the cacao production on the African co
 * etc.
 
 ## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+This project offers a detailed examination of cocoa production metrics within prominent African cocoa-producing countries: Cameroon, Congo, Côte d'Ivoire, the Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Sao Tome and Principe, Sierra Leone, and Togo. It aims to rank these nations by production volume and assess the factors contributing to their yields. The analysis extends to understanding the lower production levels in certain countries. By providing a clear production profile, the project serves as a foundational resource for further research into the region's cocoa industry dynamics.
 
 ## Getting Started
 
