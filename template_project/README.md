@@ -1,7 +1,6 @@
 # Cocoa Belt Of Africa
 
-example image:
-![Cocoa Belt of Africa](template_project/reports/img/Africa%20cocoa.webp)
+![Cocoa Belt of Africa](/template_project/reports/img/Africa%20cocoa.webp)
 
 
 
