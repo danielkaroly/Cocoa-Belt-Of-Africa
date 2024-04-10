@@ -8,7 +8,7 @@
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is to explore the cacao production on the African continent.
+The purpose of this project is to explore the cacao production on the African continent. The data was gathered from https://www.fao.org/home/en.
 
 
 ### Methods Used
