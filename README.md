@@ -26,7 +26,7 @@ The purpose of this project is to explore the cacao production on the African co
 ## Project Description
 This project offers a detailed examination of cocoa production metrics within prominent African cocoa-producing countries: Cameroon, Congo, Côte d'Ivoire, the Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Sao Tome and Principe, Sierra Leone, and Togo. It aims to rank these nations by production volume and assess the factors contributing to their yields. The analysis extends to understanding the lower production levels in certain countries. By providing a clear production profile, the project serves as a foundational resource for further research into the region's cocoa industry dynamics.
 
-Clicking on the link below to see how cocoa production changed over time:
+Click on the link below to see how cocoa production changed over time:
 https://unbreakabledan.github.io/Cocoa-Belt-Of-Africa/total_production.html
 
 
