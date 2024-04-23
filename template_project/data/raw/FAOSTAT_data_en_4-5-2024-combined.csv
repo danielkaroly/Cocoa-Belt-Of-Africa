@@ -1,0 +1,683 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1961,1961,t,75100,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1962,1962,t,76000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1963,1963,t,85000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1964,1964,t,91200,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1965,1965,t,78800,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1966,1966,t,86500,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1967,1967,t,93000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1968,1968,t,102000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1969,1969,t,108186,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1970,1970,t,133770,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1971,1971,t,138775,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1972,1972,t,126780,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1973,1973,t,132245,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1974,1974,t,120014,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1975,1975,t,96000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1976,1976,t,82500,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1977,1977,t,107000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1978,1978,t,110865,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1979,1979,t,123179,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1980,1980,t,117053,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1981,1981,t,118344,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1982,1982,t,105153,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1983,1983,t,108900,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1984,1984,t,120894,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1985,1985,t,118320,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1986,1986,t,123090,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1987,1987,t,132800,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1988,1988,t,129400,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1989,1989,t,125700,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1990,1990,t,115000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1991,1991,t,105000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1992,1992,t,97835,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1993,1993,t,99000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1994,1994,t,107000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1995,1995,t,134000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1996,1996,t,125726,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1997,1997,t,126807,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1998,1998,t,125000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,1999,1999,t,116000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2000,2000,t,122600,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2001,2001,t,122100,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2002,2002,t,125000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2003,2003,t,154965,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2004,2004,t,166754,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2005,2005,t,140000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2006,2006,t,164553,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2007,2007,t,212619,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2008,2008,t,229203,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2009,2009,t,235500,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2010,2010,t,264077,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2011,2011,t,240000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2012,2012,t,268941,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2013,2013,t,275000,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2014,2014,t,269228,I,Imputed value,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2015,2015,t,310000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2016,2016,t,344752,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2017,2017,t,322247.8,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2018,2018,t,317530.3,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2019,2019,t,301255.2,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2020,2020,t,280077,A,Official figure,
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2021,2021,t,295000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,120,Cameroon,5510,Production,1640,Cocoa beans,2022,2022,t,300000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1961,1961,t,900,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1962,1962,t,630,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1963,1963,t,800,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1964,1964,t,1100,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1965,1965,t,800,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1966,1966,t,877,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1967,1967,t,1144,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1968,1968,t,1288,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1969,1969,t,1195,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1970,1970,t,1344,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1971,1971,t,2026,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1972,1972,t,2146,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1973,1973,t,2114,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1974,1974,t,2422,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1975,1975,t,2912,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1976,1976,t,2332,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1977,1977,t,3021,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1978,1978,t,2275,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1979,1979,t,2772,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1980,1980,t,2334,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1981,1981,t,2214,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1982,1982,t,2492,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1983,1983,t,1588,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1984,1984,t,1864,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1985,1985,t,1845,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1986,1986,t,1842,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1987,1987,t,1751,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1988,1988,t,1611,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1989,1989,t,1994,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1990,1990,t,2115,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1991,1991,t,2188,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1992,1992,t,2263,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1993,1993,t,2341,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1994,1994,t,2423,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1995,1995,t,2507,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1996,1996,t,1858,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1997,1997,t,1875,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1998,1998,t,1900,E,Estimated value,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,1999,1999,t,1331,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2000,2000,t,1304,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2001,2001,t,1278,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2002,2002,t,1253,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2003,2003,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2004,2004,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2005,2005,t,800,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2006,2006,t,800,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2007,2007,t,700,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2008,2008,t,927,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2009,2009,t,800,A,Official figure,
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2010,2010,t,1200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2011,2011,t,1500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2012,2012,t,2800,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2013,2013,t,5000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2014,2014,t,5000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2015,2015,t,2500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2016,2016,t,3800,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2017,2017,t,3500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2018,2018,t,4500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2019,2019,t,5000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2020,2020,t,7000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2021,2021,t,16000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,178,Congo,5510,Production,1640,Cocoa beans,2022,2022,t,20000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1961,1961,t,85000,E,Estimated value,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1962,1962,t,110000,E,Estimated value,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1963,1963,t,115000,E,Estimated value,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1964,1964,t,139069,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1965,1965,t,121772,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1966,1966,t,149662,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1967,1967,t,146640,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1968,1968,t,144476,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1969,1969,t,180706,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1970,1970,t,179156,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1971,1971,t,225814,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1972,1972,t,185445,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1973,1973,t,208522,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1974,1974,t,241511,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1975,1975,t,231136,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1976,1976,t,232330,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1977,1977,t,303621,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1978,1978,t,318381,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1979,1979,t,397759,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1980,1980,t,417222,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1981,1981,t,464751,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1982,1982,t,360445,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1983,1983,t,411081,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1984,1984,t,565042,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1985,1985,t,555115,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1986,1986,t,610680,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1987,1987,t,664031,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1988,1988,t,832177,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1989,1989,t,780521,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1990,1990,t,807501,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1991,1991,t,764708,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1992,1992,t,813009,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1993,1993,t,803799,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1994,1994,t,808662,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1995,1995,t,1120000,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1996,1996,t,1235300,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1997,1997,t,1119110,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1998,1998,t,1201119,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,1999,1999,t,1163025,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2000,2000,t,1401101,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2001,2001,t,1212428,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2002,2002,t,1264708,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2003,2003,t,1351546,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2004,2004,t,1407213,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2005,2005,t,1286330,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2006,2006,t,1408854,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2007,2007,t,1229908,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2008,2008,t,1382441,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2009,2009,t,1223153,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2010,2010,t,1301347,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2011,2011,t,1511255,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2012,2012,t,1485882,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2013,2013,t,1448992,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2014,2014,t,1637777.56,I,Imputed value,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2015,2015,t,1796000,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2016,2016,t,1634000,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2017,2017,t,2034000,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2018,2018,t,2113189,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2019,2019,t,2235043,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2020,2020,t,2200000,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2021,2021,t,2228459,A,Official figure,
+QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,1640,Cocoa beans,2022,2022,t,2230000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1961,1961,t,5800,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1962,1962,t,6500,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1963,1963,t,5600,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1964,1964,t,4800,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1965,1965,t,4300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1966,1966,t,5300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1967,1967,t,4900,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1968,1968,t,4500,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1969,1969,t,4900,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1970,1970,t,6200,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1971,1971,t,6300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1972,1972,t,6500,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1973,1973,t,5700,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1974,1974,t,5000,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1975,1975,t,5300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1976,1976,t,5400,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1977,1977,t,5200,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1978,1978,t,4300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1979,1979,t,5700,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1980,1980,t,5900,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1981,1981,t,4513,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1982,1982,t,4300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1983,1983,t,4300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1984,1984,t,4388,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1985,1985,t,4530,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1986,1986,t,6300,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1987,1987,t,5500,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1988,1988,t,6200,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1989,1989,t,7100,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1990,1990,t,7180,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1991,1991,t,7270,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1992,1992,t,7361,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1993,1993,t,7453,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1994,1994,t,7547,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1995,1995,t,7551,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1996,1996,t,7576,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1997,1997,t,7207,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1998,1998,t,6909,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,1999,1999,t,6565,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2000,2000,t,6582,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2001,2001,t,6235,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2002,2002,t,5750,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2003,2003,t,5710,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2004,2004,t,5670,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2005,2005,t,5630,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2006,2006,t,5590,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2007,2007,t,5590,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2008,2008,t,5510,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2009,2009,t,5470,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2010,2010,t,5431,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2011,2011,t,5392,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2012,2012,t,2000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2013,2013,t,2000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2014,2014,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2015,2015,t,6000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2016,2016,t,10200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2017,2017,t,13500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2018,2018,t,18475,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2019,2019,t,22058,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2020,2020,t,26337,A,Official figure,
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2021,2021,t,20000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,1640,Cocoa beans,2022,2022,t,20000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1961,1961,t,26000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1962,1962,t,30900,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1963,1963,t,33000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1964,1964,t,35100,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1965,1965,t,35400,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1966,1966,t,38200,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1967,1967,t,33600,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1968,1968,t,38000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1969,1969,t,28000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1970,1970,t,35000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1971,1971,t,22000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1972,1972,t,10000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1973,1973,t,12000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1974,1974,t,13000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1975,1975,t,10000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1976,1976,t,6000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1977,1977,t,6000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1978,1978,t,6000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1979,1979,t,6000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1980,1980,t,8000,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1981,1981,t,9900,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1982,1982,t,7000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1983,1983,t,6600,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1984,1984,t,7000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1985,1985,t,6000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1986,1986,t,6200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1987,1987,t,8300,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1988,1988,t,8190,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1989,1989,t,6570,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1990,1990,t,6793,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1991,1991,t,5673,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1992,1992,t,4298,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1993,1993,t,2957,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1994,1994,t,3214,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1995,1995,t,4248,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1996,1996,t,4318,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1997,1997,t,5018,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1998,1998,t,4356,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,1999,1999,t,5500,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2000,2000,t,4900,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2001,2001,t,4000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2002,2002,t,2013,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2003,2003,t,2422,A,Official figure,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2004,2004,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2005,2005,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2006,2006,t,2000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2007,2007,t,2500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2008,2008,t,2000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2009,2009,t,1200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2010,2010,t,1200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2011,2011,t,900,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2012,2012,t,700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2013,2013,t,700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2014,2014,t,892,I,Imputed value,
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2015,2015,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2016,2016,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2017,2017,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2018,2018,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2019,2019,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2020,2020,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2021,2021,t,600,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,226,Equatorial Guinea,5510,Production,1640,Cocoa beans,2022,2022,t,1000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1961,1961,t,3190,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1962,1962,t,3360,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1963,1963,t,3600,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1964,1964,t,4000,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1965,1965,t,2170,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1966,1966,t,4296,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1967,1967,t,4061,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1968,1968,t,4751,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1969,1969,t,4366,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1970,1970,t,6095,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1971,1971,t,5031,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1972,1972,t,5030,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1973,1973,t,5151,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1974,1974,t,4869,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1975,1975,t,4549,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1976,1976,t,3573,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1977,1977,t,3573,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1978,1978,t,3710,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1979,1979,t,4754,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1980,1980,t,3814,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1981,1981,t,2850,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1982,1982,t,2900,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1983,1983,t,2500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1984,1984,t,1595,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1985,1985,t,1500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1986,1986,t,1628,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1987,1987,t,1574,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1988,1988,t,1802,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1989,1989,t,1800,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1990,1990,t,1502,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1991,1991,t,1802,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1992,1992,t,2925,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1993,1993,t,1966,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1994,1994,t,718,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1995,1995,t,774,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1996,1996,t,1022,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1997,1997,t,686,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1998,1998,t,500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,1999,1999,t,700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2000,2000,t,500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2001,2001,t,416.2,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2002,2002,t,500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2003,2003,t,600,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2004,2004,t,200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2005,2005,t,195,A,Official figure,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2006,2006,t,200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2007,2007,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2008,2008,t,200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2009,2009,t,200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2010,2010,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2011,2011,t,600,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2012,2012,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2013,2013,t,200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2014,2014,t,202.96,I,Imputed value,
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2015,2015,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2016,2016,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2017,2017,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2018,2018,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2019,2019,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2020,2020,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2021,2021,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,266,Gabon,5510,Production,1640,Cocoa beans,2022,2022,t,100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1961,1961,t,415200,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1962,1962,t,428100,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1963,1963,t,427800,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1964,1964,t,580500,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1965,1965,t,415800,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1966,1966,t,381100,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1967,1967,t,423500,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1968,1968,t,327000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1969,1969,t,414300,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1970,1970,t,406000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1971,1971,t,470000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1972,1972,t,415700,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1973,1973,t,343000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1974,1974,t,385100,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1975,1975,t,397300,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1976,1976,t,326700,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1977,1977,t,277400,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1978,1978,t,268200,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1979,1979,t,280800,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1980,1980,t,277200,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1981,1981,t,246500,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1982,1982,t,202500,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1983,1983,t,168100,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1984,1984,t,166700,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1985,1985,t,194400,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1986,1986,t,226400,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1987,1987,t,188170,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1988,1988,t,246700,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1989,1989,t,295052,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1990,1990,t,293355,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1991,1991,t,241796,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1992,1992,t,312122,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1993,1993,t,254652,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1994,1994,t,288075,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1995,1995,t,403900,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1996,1996,t,403000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1997,1997,t,322490,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1998,1998,t,409360,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,1999,1999,t,434200,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2000,2000,t,436600,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2001,2001,t,389591,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2002,2002,t,340562,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2003,2003,t,497000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2004,2004,t,737000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2005,2005,t,740000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2006,2006,t,734000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2007,2007,t,614500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2008,2008,t,680781,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2009,2009,t,710638,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2010,2010,t,632037.4,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2011,2011,t,700020,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2012,2012,t,879348,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2013,2013,t,835466,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2014,2014,t,858720,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2015,2015,t,858720,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2016,2016,t,858720,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2017,2017,t,969300,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2018,2018,t,904700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2019,2019,t,811700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2020,2020,t,800000,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2021,2021,t,1047385,A,Official figure,
+QCL,Crops and livestock products,288,Ghana,5510,Production,1640,Cocoa beans,2022,2022,t,1108662.93,I,Imputed value,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1961,1961,t,197000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1962,1962,t,182000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1963,1963,t,223000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1964,1964,t,298300,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1965,1965,t,184600,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1966,1966,t,267200,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1967,1967,t,238000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1968,1968,t,191800,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1969,1969,t,220800,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1970,1970,t,304800,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1971,1971,t,256600,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1972,1972,t,241100,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1973,1973,t,215000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1974,1974,t,214000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1975,1975,t,216000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1976,1976,t,181000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1977,1977,t,193000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1978,1978,t,157000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1979,1979,t,151000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1980,1980,t,153000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1981,1981,t,174000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1982,1982,t,156000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1983,1983,t,140000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1984,1984,t,160800,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1985,1985,t,160000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1986,1986,t,148000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1987,1987,t,150000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1988,1988,t,253000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1989,1989,t,256000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1990,1990,t,244000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1991,1991,t,268000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1992,1992,t,292000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1993,1993,t,306000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1994,1994,t,323000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1995,1995,t,203000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1996,1996,t,323000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1997,1997,t,318000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1998,1998,t,370000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,1999,1999,t,225000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2000,2000,t,338000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2001,2001,t,340000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2002,2002,t,362000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2003,2003,t,385000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2004,2004,t,412000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2005,2005,t,441000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2006,2006,t,485000,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2007,2007,t,360570,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2008,2008,t,367020,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2009,2009,t,363510,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2010,2010,t,399200,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2011,2011,t,391000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2012,2012,t,383000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2013,2013,t,367000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2014,2014,t,329870,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2015,2015,t,302066,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2016,2016,t,298029,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2017,2017,t,250000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2018,2018,t,270000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2019,2019,t,250000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2020,2020,t,357608.24,A,Official figure,
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2021,2021,t,280000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,566,Nigeria,5510,Production,1640,Cocoa beans,2022,2022,t,280000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1961,1961,t,9100,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1962,1962,t,9600,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1963,1963,t,7800,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1964,1964,t,10700,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1965,1965,t,8900,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1966,1966,t,10900,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1967,1967,t,10900,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1968,1968,t,10600,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1969,1969,t,9100,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1970,1970,t,9700,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1971,1971,t,11034,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1972,1972,t,10395,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1973,1973,t,11300,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1974,1974,t,10400,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1975,1975,t,7900,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1976,1976,t,7000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1977,1977,t,5500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1978,1978,t,7000,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1979,1979,t,7500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1980,1980,t,5700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1981,1981,t,6500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1982,1982,t,5100,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1983,1983,t,4700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1984,1984,t,3378,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1985,1985,t,3848,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1986,1986,t,4032,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1987,1987,t,3957,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1988,1988,t,5050,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1989,1989,t,3707,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1990,1990,t,2799,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1991,1991,t,2862,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1992,1992,t,4188,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1993,1993,t,4492,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1994,1994,t,4500,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1995,1995,t,3671,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1996,1996,t,3753,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1997,1997,t,3138,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1998,1998,t,3928,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,1999,1999,t,4197,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2000,2000,t,3418,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2001,2001,t,3652,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2002,2002,t,3462,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2003,2003,t,3820,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2004,2004,t,2500,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2005,2005,t,1843,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2006,2006,t,1900,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2007,2007,t,2800,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2008,2008,t,2000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2009,2009,t,2500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2010,2010,t,2600,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2011,2011,t,2218.5,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2012,2012,t,2229.6,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2013,2013,t,2617,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2014,2014,t,3200,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2015,2015,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2016,2016,t,3001,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2017,2017,t,3501,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2018,2018,t,3045.5,A,Official figure,
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2019,2019,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2020,2020,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2021,2021,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,678,Sao Tome and Principe,5510,Production,1640,Cocoa beans,2022,2022,t,3000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1961,1961,t,2840,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1962,1962,t,4780,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1963,1963,t,3310,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1964,1964,t,3180,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1965,1965,t,2980,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1966,1966,t,4534,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1967,1967,t,3869,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1968,1968,t,5039,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1969,1969,t,3782,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1970,1970,t,5080,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1971,1971,t,4770,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1972,1972,t,7028,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1973,1973,t,7931,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1974,1974,t,5933,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1975,1975,t,6340,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1976,1976,t,5790,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1977,1977,t,5454,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1978,1978,t,7100,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1979,1979,t,9111,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1980,1980,t,8497,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1981,1981,t,9026,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1982,1982,t,15100,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1983,1983,t,12500,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1984,1984,t,16600,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1985,1985,t,18600,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1986,1986,t,20900,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1987,1987,t,23500,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1988,1988,t,23700,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1989,1989,t,24200,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1990,1990,t,24000,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1991,1991,t,24000,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1992,1992,t,5400,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1993,1993,t,5400,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1994,1994,t,11737,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1995,1995,t,10000,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1996,1996,t,11000,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1997,1997,t,13000,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1998,1998,t,14500,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,1999,1999,t,10920,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2000,2000,t,12000,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2001,2001,t,11000,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2002,2002,t,11500,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2003,2003,t,12000,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2004,2004,t,13500,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2005,2005,t,15000,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2006,2006,t,13940,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2007,2007,t,14000,E,Estimated value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2008,2008,t,10500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2009,2009,t,10000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2010,2010,t,19700,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2011,2011,t,18000,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2012,2012,t,18000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2013,2013,t,14850,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2014,2014,t,17081.74,I,Imputed value,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2015,2015,t,12000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2016,2016,t,47705,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2017,2017,t,48903,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2018,2018,t,50150,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2019,2019,t,14648,A,Official figure,
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2020,2020,t,18000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2021,2021,t,15000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,694,Sierra Leone,5510,Production,1640,Cocoa beans,2022,2022,t,18000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1961,1961,t,11550,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1962,1962,t,11400,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1963,1963,t,13900,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1964,1964,t,17500,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1965,1965,t,14300,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1966,1966,t,16300,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1967,1967,t,18338,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1968,1968,t,20000,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1969,1969,t,23600,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1970,1970,t,27900,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1971,1971,t,29000,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1972,1972,t,18600,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1973,1973,t,16500,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1974,1974,t,14500,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1975,1975,t,17750,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1976,1976,t,14100,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1977,1977,t,16700,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1978,1978,t,12600,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1979,1979,t,15300,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1980,1980,t,16300,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1981,1981,t,11000,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1982,1982,t,13800,E,Estimated value,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1983,1983,t,16600,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1984,1984,t,9795,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1985,1985,t,14272,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1986,1986,t,12585,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1987,1987,t,11057,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1988,1988,t,8265,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1989,1989,t,7646,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1990,1990,t,6814,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1991,1991,t,4100,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1992,1992,t,6000,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1993,1993,t,7200,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1994,1994,t,5500,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1995,1995,t,6000,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1996,1996,t,14200,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1997,1997,t,5800,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1998,1998,t,12200,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,1999,1999,t,7000,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2000,2000,t,6600,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2001,2001,t,10200,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2002,2002,t,7500,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2003,2003,t,5100,A,Official figure,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2004,2004,t,21700,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2005,2005,t,53000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2006,2006,t,73000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2007,2007,t,78000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2008,2008,t,111000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2009,2009,t,105000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2010,2010,t,101500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2011,2011,t,142500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2012,2012,t,34500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2013,2013,t,15000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2014,2014,t,22181.68,I,Imputed value,
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2015,2015,t,10000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2016,2016,t,10000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2017,2017,t,8500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2018,2018,t,7500,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2019,2019,t,10600,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2020,2020,t,13000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2021,2021,t,10000,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,768,Togo,5510,Production,1640,Cocoa beans,2022,2022,t,14000,X,Figure from international organizations,Unofficial figure
