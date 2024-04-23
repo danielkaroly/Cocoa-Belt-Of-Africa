@@ -1,30 +1,39 @@
 import pandas as pd
-import json
 import plotly.express as px
 import streamlit as st
 from preprocessing import total_production_df
 from preprocessing import grouped_df
 from helper import year_over_year
 from helper import plot_cocoa_production
-from copy import deepcopy
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # Title and data source
-st.title("Cocoa Belt of Africa :chocolate_bar:")
+st.markdown("""
+<div style='text-align: center'>
+    <h1>Cocoa Belt of Africa 🍫</h1>
+</div>
+""", unsafe_allow_html=True)
 url = "https://www.fao.org/faostat/en/#data/QCL"
-st.write("Data Source:", url)
+st.markdown(f"""
+<div style='text-align: center'>
+    Data Source: <a href='{url}' target='_blank'>{url}</a>
+</div>
+""", unsafe_allow_html=True)
+
+
 
 
 # Implementing a checkbox to toggle total production
 if st.sidebar.checkbox("Total Cocoa Production Over Time"):
+    
 
     fig_total_production = px.line(total_production_df, x='Year', y='Total Production', title='Total Cocoa Production Over Time')
 
     fig_total_production.update_layout(
         xaxis_title='Year',
         yaxis_title='Total Cocoa Production (tons)',
-        title_x=0.5,
+        title_x=0.30,
         xaxis=dict(showgrid=False),  
         yaxis=dict(showgrid=True),   
     )
@@ -33,7 +42,7 @@ if st.sidebar.checkbox("Total Cocoa Production Over Time"):
 
 # Implementing checkbox to toggle High and low production countries
 if st.sidebar.checkbox("Cocoa Production Comparison"):
-    st.header("Cocoa Production of Comparison of High and Low Productuion Countries")
+    #st.header("Cocoa Production of Comparison of High and Low Productuion Countries")
     # Assuming 'grouped_df' is your DataFrame and you've identified high and low production countries
     high_prod_countries = ['Nigeria', 'Ghana', 'Côte d\'Ivoire', 'Cameroon']
     low_prod_countries = [country for country in grouped_df.columns if country not in high_prod_countries]
@@ -74,7 +83,7 @@ if st.sidebar.checkbox("Cocoa Production Comparison"):
     # Update the layout
     fig.update_layout(
         barmode='stack',
-        title={'text': "Cocoa Production Comparison", 'x': 0.5},
+        title={'text': "Cocoa Production Comparison", 'x': 0.225},
         xaxis_title="Year",
         yaxis_title="Cocoa Production (tons)",
         legend_title="Country",
@@ -85,15 +94,36 @@ if st.sidebar.checkbox("Cocoa Production Comparison"):
     st.plotly_chart(fig)
 
 
-if st.sidebar.checkbox("Total Cocoa Production of individual countries"):
-    st.header("Cocoa Production of individual countries")
-    # Need a button to be able to choose individual countries
+emoji_map = {
+    'Cameroon': '🇨🇲',  
+    'Ghana': '🇬🇭',  
+    'Equatorial Guinea': '🇬🇶',  
+    'Gabon': '🇬🇦',  
+    'Democratic Republic of the Congo': '🇨🇩',  
+    'Congo': '🇨🇬',  
+    'Côte d\'Ivoire': '🇨🇮',  
+    'Nigeria': '🇳🇬',  
+    'Sao Tome and Principe': '🇸🇹',  
+    'Sierra Leone': '🇸🇱',  
+    'Togo': '🇹🇬',  
+}
+
+if st.sidebar.checkbox("Cocoa Production of individual countries"):
+    #st.header("Cocoa Production of individual countries")
+    
+    # Dropdown for selecting the country
     countries = grouped_df.columns.tolist()
     country_name = st.selectbox("Choose a country", countries)
 
+    # Display the emoji as a subheader
+    emoji = emoji_map.get(country_name, '')  # Get the emoji from the map
+    if emoji:
+        st.markdown(f"<h3 style='text-align: center;'>{emoji} {country_name}</h3>", unsafe_allow_html=True)
+
+    # Button to generate plots
     if st.button("Generate Plots"):
-
         yoy_data = year_over_year(grouped_df[country_name])
+        plot_cocoa_production(grouped_df, country_name, yoy_data)
 
-        plot_cocoa_production(grouped_df, country_name, yoy_data) 
+
     
