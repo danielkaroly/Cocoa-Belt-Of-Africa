@@ -1,7 +1,11 @@
 import pandas as pd
+import os
+from pathlib import Path
 
-file_path = '../data/raw/FAOSTAT_data_en_4-5-2024-combined.csv'
 
+#file_path = '../data/raw/FAOSTAT_data_en_4-5-2024-combined.csv'
+
+file_path = Path(__file__).parent.parent / 'data' / 'raw' / 'FAOSTAT_data_en_4-5-2024-combined.csv'
 df = pd.read_csv(file_path)
 
 new_df = df.drop(columns=['Domain Code', 'Domain', 'Area Code (M49)','Element Code',
