@@ -14,6 +14,7 @@ st.markdown("""
     <h1>Cocoa Belt of Africa 🍫</h1>
 </div>
 """, unsafe_allow_html=True)
+
 url = "https://www.fao.org/faostat/en/#data/QCL"
 
 st.markdown("""git 
@@ -21,7 +22,7 @@ st.markdown("""git
 Welcome to my project! Here's a quick overview:
 - **Objective**: A concise visual overview of cocoa production in 11 African countries from 1961 to 2022.
 - **Features**: Track cocoa production through three lenses: historical trends, country-by-country comparisons, and individual country profiles from 1961 to 2022.
-- **Data**: The data used in this project is sourced from the FAO database, which can be accessed [here]({url}).
+- **Data**: The data used in this project is sourced from the FAO database, which can be accessed [here](https://www.fao.org/faostat/en/#data/QCL).
 - **Tools**: Python, HTML.
 
 Feel free to explore the app and contact me with any questions or feedback.
