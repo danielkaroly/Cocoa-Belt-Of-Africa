@@ -24,9 +24,9 @@ st.markdown(f"""
 st.markdown("""
 ## Project Description
 Welcome to my project! Here's a quick overview:
-- **Objective**: Describe the objective of your project.
-- **Features**: Highlight the key features of your app.
-- **Data**: Mention the data you're using and its source.
+- **Objective**: A concise visual overview of cocoa production in 11 African countries from 1961 to 2022.
+- **Features**: Track cocoa production through three lenses: historical trends, country-by-country comparisons, and individual country profiles from 1961 to 2022.
+- **Data**: Data Source: <a href='{url}' target='_blank'>{url}</a>.
 - **Model**: Briefly describe the model and its accuracy.
 - **Conclusion**: Sum up what users can learn or achieve with your app.
 
