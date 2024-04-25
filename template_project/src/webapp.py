@@ -21,6 +21,18 @@ st.markdown(f"""
 </div>
 """, unsafe_allow_html=True)
 
+st.markdown("""
+## Project Description
+Welcome to my project! Here's a quick overview:
+- **Objective**: Describe the objective of your project.
+- **Features**: Highlight the key features of your app.
+- **Data**: Mention the data you're using and its source.
+- **Model**: Briefly describe the model and its accuracy.
+- **Conclusion**: Sum up what users can learn or achieve with your app.
+
+Feel free to explore the app and contact me with any questions or feedback.
+""")
+
 
 
 
@@ -108,7 +120,7 @@ emoji_map = {
     'Togo': '🇹🇬',  
 }
 
-if st.sidebar.checkbox("Cocoa Production of individual countries"):
+if st.sidebar.checkbox("Cocoa Production Of Individual Countries"):
     #st.header("Cocoa Production of individual countries")
     
     # Dropdown for selecting the country
