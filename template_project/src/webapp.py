@@ -15,20 +15,14 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 url = "https://www.fao.org/faostat/en/#data/QCL"
-st.markdown(f"""
-<div style='text-align: center'>
-    Data Source: <a href='{url}' target='_blank'>{url}</a>
-</div>
-""", unsafe_allow_html=True)
 
-st.markdown("""
+st.markdown("""git 
 ## Project Description
 Welcome to my project! Here's a quick overview:
 - **Objective**: A concise visual overview of cocoa production in 11 African countries from 1961 to 2022.
 - **Features**: Track cocoa production through three lenses: historical trends, country-by-country comparisons, and individual country profiles from 1961 to 2022.
-- **Data**: Data Source: <a href='{url}' target='_blank'>{url}</a>.
-- **Model**: Briefly describe the model and its accuracy.
-- **Conclusion**: Sum up what users can learn or achieve with your app.
+- **Data**: The data used in this project is sourced from the FAO database, which can be accessed [here]({url}).
+- **Tools**: Python, HTML.
 
 Feel free to explore the app and contact me with any questions or feedback.
 """)
