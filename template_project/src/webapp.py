@@ -55,9 +55,10 @@ if st.sidebar.checkbox("Cocoa Production Comparison"):
     color_sequence_high = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728']
     color_sequence_low = ['#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf']
 
-    fig = make_subplots(rows=2, cols=1, subplot_titles=('High Production Countries', 'Low Production Countries'))
+    fig = make_subplots(rows=2, cols=1, subplot_titles=('High Production Countries', 'Low Production Countries'),
+                        vertical_spacing=0.15)  # Adjust vertical_spacing to create space for the legend
 
-    # Add traces for high production countries with legends
+    # Add traces for high production countries
     for i, country in enumerate(high_prod_countries):
         fig.add_trace(
             go.Bar(
@@ -69,7 +70,7 @@ if st.sidebar.checkbox("Cocoa Production Comparison"):
             row=1, col=1
         )
 
-    # Add traces for low production countries without legends (will be added as annotations)
+    # Add traces for low production countries
     for i, country in enumerate(low_prod_countries):
         color = color_sequence_low[i % len(color_sequence_low)]
         fig.add_trace(
@@ -77,38 +78,25 @@ if st.sidebar.checkbox("Cocoa Production Comparison"):
                 x=grouped_df.index,
                 y=grouped_df[country],
                 name=country,
-                marker_color=color,
-                showlegend=False
+                marker_color=color
             ),
             row=2, col=1
         )
 
-    # Annotations for the low production countries to create a pseudo-legend
-    annotations = []
-    for i, country in enumerate(low_prod_countries):
-        annotations.append(dict(
-            xref='paper', yref='paper',
-            x=1, y=0.5 - (i * 0.04),  # Adjust positioning to align with the lower subplot
-            text=country,
-            font=dict(family='Arial', size=12),
-            showarrow=False,
-            align="right",
-            bgcolor=color_sequence_low[i % len(color_sequence_low)],
-            bordercolor='white',
-            borderwidth=1,
-            borderpad=4,
-            opacity=0.8
-        ))
-
-    # Update the layout with annotations
+    # Update the layout to adjust the legend positioning
     fig.update_layout(
         barmode='stack',
         title={'text': "Cocoa Production Comparison", 'x': 0.5},
         xaxis_title="Year",
         yaxis_title="Cocoa Production (tons)",
-        legend_title="Country",
+        legend=dict(
+            x=1.05,  # Place the legend to the right of the figure
+            y=0.5,  # Center the legend vertically
+            xanchor='left',
+            yanchor='middle'
+        ),
         height=800,
-        annotations=annotations
+        showlegend=True
     )
 
     # Show the figure
