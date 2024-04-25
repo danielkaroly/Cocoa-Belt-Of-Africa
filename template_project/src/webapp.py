@@ -22,10 +22,11 @@ st.markdown("""
 Welcome to my project! Here's a quick overview:
 - **Objective**: A concise visual overview of cocoa production in 11 African countries from 1961 to 2022.
 - **Features**: Track cocoa production through three lenses: historical trends, country-by-country comparisons, and individual country profiles from 1961 to 2022.
-- **Data**: The data used in this project is sourced from the FAO database, which can be accessed [here](https://www.fao.org/faostat/en/#data/QCL).
+- **Data**: The data used in this project is sourced from the FAO database, which can be accessed: [here](https://www.fao.org/faostat/en/#data/QCL).
 - **Tools**: Python, HTML.
 
-Feel free to explore the app and contact me with any questions or feedback.
+Feel free to explore the app and contact me with any questions or feedback on
+            linkedin: [here](https://www.linkedin.com/in/dkaroly90/).
 """)
 
 
@@ -86,7 +87,7 @@ if st.sidebar.checkbox("Cocoa Production Comparison"):
     # Update the layout to adjust the legend positioning
     fig.update_layout(
         barmode='stack',
-        title={'text': "Cocoa Production Comparison", 'x': 0.5},
+        title={'text': "Cocoa Production Comparison", 'x': 0.225},
         xaxis_title="Year",
         yaxis_title="Cocoa Production (tons)",
         legend=dict(
