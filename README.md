@@ -37,15 +37,10 @@ To address these challenges, we transitioned the project to a Streamlit applicat
 Impact:
 The Streamlit application provides stakeholders, such as cocoa producers, market analysts, and policy makers, with a powerful tool to monitor cocoa production trends and make data-driven decisions. The enhanced interactivity and clarity of the application promote greater understanding and engagement with the data, leading to more informed strategies in the cocoa industry across these key African nations.
 
-Click on the link below to see how cocoa production changed over time:
-(https://cocoabeltofafrica.streamlit.app/)
+Click on the link below to streamlit application:
+https://cocoabeltofafrica.streamlit.app/
 
 
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
 
 ## Contributing Members
