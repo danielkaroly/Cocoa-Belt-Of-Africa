@@ -19,7 +19,7 @@ The purpose of this project is to explore the cacao production on the African co
 
 ### Technologies
 * Python
-* Pandas, jupyter
+* Pandas, jupyter, VS code
 * HTML
 * Streamlit
 
@@ -33,12 +33,6 @@ While Jupyter notebooks are excellent for initial data exploration and analysis,
 
 Solution:
 To address these challenges, we transitioned the project to a Streamlit application. Streamlit allowed us to create a more interactive and user-friendly interface, enabling users to engage with the data through dynamic visualizations and filters. This platform not only enhanced the accessibility of the data but also allowed for real-time updates and more effective presentation of complex datasets.
-
-Technologies Used:
-
-  -Data Analysis: Python, Pandas, Jupyter Notebook
-  -Data Visualization: Matplotlib, Plotly, Streamlit (for interactive dashboards)
-  -Deployment: VS Code, Streamlit hosting, enabling easy access for stakeholders and interested parties.
 
 Impact:
 The Streamlit application provides stakeholders, such as cocoa producers, market analysts, and policy makers, with a powerful tool to monitor cocoa production trends and make data-driven decisions. The enhanced interactivity and clarity of the application promote greater understanding and engagement with the data, leading to more informed strategies in the cocoa industry across these key African nations.
