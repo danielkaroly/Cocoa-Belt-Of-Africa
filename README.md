@@ -36,9 +36,9 @@ To address these challenges, we transitioned the project to a Streamlit applicat
 
 Technologies Used:
 
-    Data Analysis: Python, Pandas, Jupyter Notebook
-    Data Visualization: Matplotlib, Plotly, Streamlit (for interactive dashboards)
-    Deployment: Streamlit hosting, enabling easy access for stakeholders and interested parties.
+  -Data Analysis: Python, Pandas, Jupyter Notebook
+  -Data Visualization: Matplotlib, Plotly, Streamlit (for interactive dashboards)
+  -Deployment: VS Code, Streamlit hosting, enabling easy access for stakeholders and interested parties.
 
 Impact:
 The Streamlit application provides stakeholders, such as cocoa producers, market analysts, and policy makers, with a powerful tool to monitor cocoa production trends and make data-driven decisions. The enhanced interactivity and clarity of the application promote greater understanding and engagement with the data, leading to more informed strategies in the cocoa industry across these key African nations.
@@ -47,20 +47,6 @@ Click on the link below to see how cocoa production changed over time:
 (https://cocoabeltofafrica.streamlit.app/)
 
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages)
-create another "setup.md" file and link to it here*
-
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
