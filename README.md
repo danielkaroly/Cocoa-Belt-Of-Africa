@@ -21,7 +21,7 @@ The purpose of this project is to explore the cacao production on the African co
 * Python
 * Pandas, jupyter
 * HTML
-* Stremlit
+* Streamlit
 
 ## Project Description
 
