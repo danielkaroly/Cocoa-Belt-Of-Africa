@@ -13,21 +13,38 @@ The purpose of this project is to explore the cacao production on the African co
 
 ### Methods Used
 * Explarotary Data Analysis
-* Machine Learning
 * Data Visualization
-* Predictive Modeling
+  
 
 
 ### Technologies
 * Python
 * Pandas, jupyter
-* etc.
+* HTML
+* Stremlit
 
 ## Project Description
-This project offers a detailed examination of cocoa production metrics within prominent African cocoa-producing countries: Cameroon, Congo, Côte d'Ivoire, the Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Sao Tome and Principe, Sierra Leone, and Togo. It aims to rank these nations by production volume and assess the factors contributing to their yields. The analysis extends to understanding the lower production levels in certain countries. By providing a clear production profile, the project serves as a foundational resource for further research into the region's cocoa industry dynamics.
+
+Overview:
+This project began as an exploratory data analysis in a Jupyter notebook, focusing on cocoa production across several prominent cocoa-producing countries in Africa: Cameroon, Congo, Côte d'Ivoire, the Democratic Republic of the Congo, Equatorial Guinea, Gabon, Ghana, Nigeria, Sao Tome and Principe, Sierra Leone, and Togo. The goal was to analyze trends, output, and other relevant metrics within the cocoa industry in these countries.
+
+Challenges:
+While Jupyter notebooks are excellent for initial data exploration and analysis, the complexity of the data and the need for interactive visualization led to challenges with data presentation. The visualizations became cluttered as the scope of data increased, making it difficult to derive clear insights directly from the notebook.
+
+Solution:
+To address these challenges, we transitioned the project to a Streamlit application. Streamlit allowed us to create a more interactive and user-friendly interface, enabling users to engage with the data through dynamic visualizations and filters. This platform not only enhanced the accessibility of the data but also allowed for real-time updates and more effective presentation of complex datasets.
+
+Technologies Used:
+
+    Data Analysis: Python, Pandas, Jupyter Notebook
+    Data Visualization: Matplotlib, Plotly, Streamlit (for interactive dashboards)
+    Deployment: Streamlit hosting, enabling easy access for stakeholders and interested parties.
+
+Impact:
+The Streamlit application provides stakeholders, such as cocoa producers, market analysts, and policy makers, with a powerful tool to monitor cocoa production trends and make data-driven decisions. The enhanced interactivity and clarity of the application promote greater understanding and engagement with the data, leading to more informed strategies in the cocoa industry across these key African nations.
 
 Click on the link below to see how cocoa production changed over time:
-https://unbreakabledan.github.io/Cocoa-Belt-Of-Africa/total_production.html
+(https://cocoabeltofafrica.streamlit.app/)
 
 
 ## Getting Started
